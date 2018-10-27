@@ -51,7 +51,7 @@ a:hover {
 		background-image: url(Images/interior.jpg); 
 		background-repeat: no-repeat;
 		background-size: cover;
-		height: 50vh;
+		height: 90vh;
 		width: 100vw;
 		margin-top: 0;
 		text-align: center;   
@@ -79,7 +79,7 @@ a:hover {
 .description { 
 		width: 50%;
 		text-align: center;
-		margin-left: 350px;
+		margin-left: 250px;
  }
 
  body {
